@@ -34,3 +34,7 @@ This code was originally forked from [Leah Culver and Andy Smith's oauth.py code
 * The <code>Request</code> class now extends from <code>dict</code>.
 * The library is likely no longer compatible with Python 2.3.
 * The <code>Client</code> class works and extends from <code>httplib2</code>. It's a thin wrapper that handles automatically signing any normal HTTP request you might wish to make.
+
+
+
+# New line added
